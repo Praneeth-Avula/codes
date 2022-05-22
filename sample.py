@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+#The code is about the path planning of a turtlebot without hitting the obstacles and leaving the room
 import rospy
 import actionlib
 from geometry_msgs.msg import Twist
